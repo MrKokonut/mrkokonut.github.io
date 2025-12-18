@@ -2,6 +2,6 @@
 layout: post
 title: 'Project One: Undergraduate Research Blog'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+In this project, I was taked to break a complex topic down into simpler terms such that a college freshman would be able to understand it. I choose to explain rocket propulsion, as it is the topic I feel I'm best educated in. Communication of complex ideas is fundemental to all aspects and types of innovation, and through the completion of the project, my understanding of the process of breaking large ideas down into smaller, more managable ones, grew significantly. Click the image below to read the project.
 
 {% include image.html url="/assets/WyattRocketPropulsion.pdf" image="projects/proj-1/gallery-image-2.png" %}

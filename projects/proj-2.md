@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Project Two: Visual Project'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+This project is an adaptation of my Undergraduate Research Blog (project 1) to a visual format. In order to accomplish this, I created a PowerPoint presentation that touches on the same key ideas that my blog did, however in a much more consise and focused manner. A large component of the project was the finding or creation of images and figures. I feel that the images chosen significantly aid in the reader's understanding of the topic. By creating this project, I learned a large amount about the depiction of ideas through visual means, and especially how to condense long explanations into more consise and easier to understand peices. Click the image below to explore the project.
 
 {% include image.html url="/assets/AlternateFormFinalCopy.pdf" image="projects/proj-2/gallery-image-1.png" %}
